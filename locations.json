@@ -1,0 +1,17 @@
+{
+	"brands": [
+			{
+				"name": "Onyx",
+				"description": "Tons of free movies and series",
+				"screenshot_url": "http://example.com/screenshot1.png",
+				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
+				"version": 2
+			},
+			{
+				"name": "Mambo",
+				"description": "Advance internet media player",
+				"screenshot_url": "http://example.com/screenshot2.png",
+				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
+				"version": 4
+			}]
+}
