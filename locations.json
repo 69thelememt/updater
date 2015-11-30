@@ -12,5 +12,26 @@
 				"screenshot_url": "http://example.com/screenshot2.png",
 				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
 				"version": 4
+			},
+            {
+				"name": "NicePlay",
+				"description": "Free streamming to your box",
+				"screenshot_url": "http://example.com/screenshot3.png",
+				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
+				"version": 3
+			},
+            {
+				"name": "Animelandia",
+				"description": "Nice anime directly from Japan",
+				"screenshot_url": "http://example.com/screenshot3.png",
+				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
+				"version": 5
+			},
+            {
+				"name": "TorrentWorld",
+				"description": "Feed yourself from torrents",
+				"screenshot_url": "http://example.com/screenshot3.png",
+				"brand_url": "https://www.dropbox.com/s/0x93nuja66lmpjs/update.zip?dl=1",
+				"version": 1
 			}
 ]
