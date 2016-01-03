@@ -28,10 +28,24 @@
 				"version": 1
 			},
             {
-				"name": "Revolver",
+				"name": "coming soon",
 				"description": "You Know what this ones all about, Lite and quick to load skin! The one stop place for anything and everything you could need when the mood takes you",
 				"screenshot_url": "http://example.com/screenshot3.png",
 				"brand_url": "https://www.dropbox.com/s/hlwjiq0u1ycjbgo/update.zip?dl=1",
+				"version": 1
+			},
+            {
+				"name": "coming soon",
+				"description": "Beautiful and airy. Take a second out from the chaos outside and relax with a glass of wine and your favorite TV show or Latest Film",
+				"screenshot_url": "https://www.dropbox.com/s/3afy0n1xgd16wdp/Screenshot_2016-01-03-14-26-42.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/hlwjiq0u1ycjbgo/update.zip?dl=1",
+				"version": 1
+			},
+            {
+				"name": "Triple X",
+				"description": "You Know what this ones all about, Lite and quick to load skin! The one stop place for anything and everything you could need when the mood takes you",
+				"screenshot_url": "http://example.com/screenshot3.png",
+				"brand_url": "https://www.dropbox.com/s/qn3gq6ss5fl4pg2/update.zip?dl=1",
 				"version": 1
 			}
 ]
