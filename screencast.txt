@@ -1,1 +1,19 @@
-
+instructions example:
+1.- Do the first thing
+2.- Do the second thing
+3.- Do the ... thing
+4.- Do the ... thing
+5.- Do the ... thing
+6.- Do the ... thing
+7.- Do the ... thing
+8.- Do the ... thing
+9.- Do the ... thing
+10.- Do the ... thing
+11.- Do the ... thing
+12.- Do the ... thing
+13.- Do the ... thing
+14.- Do the ... thing
+15.- Do the ... thing
+16.- Do the ... thing
+17.- Do the ... thing
+18.- Do the ... thing
