@@ -1,0 +1,66 @@
+[
+			{
+				"name": "Classic Home Free Trial",
+				"description": "*FREE TRIAL* Classy and easy to use classic slider, our show piece theme with light colours and easy to navigate menu. Wide and varied collection or TV, movies and music and more",
+				"screenshot_url": "https://www.dropbox.com/s/tnmsbnqdlzfh3fv/Screenshot_2015-12-30-16-05-05.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/srab7qovm65nzhs/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_trial"],
+				"version": 3
+			},
+			{
+				"name": "Classic Home",
+				"description": "Classy and easy to use classic slider, our show piece theme with light colours and easy to navigate menu. Wide and varied collection or TV, movies and music and more",
+				"screenshot_url": "https://www.dropbox.com/s/3pnimd57ducpg4o/Screenshot_2015-12-30-16-05-05.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/vks0skxxztq0rj4/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
+				"version": 3
+			},
+			{
+				"name": "Lost In Space",
+				"description": "One for the fantasy and space lovers out there. Lost in space?? Try lost in films, sport and music. Packed with all the best sport, movies, TV and music",
+				"screenshot_url": "https://www.dropbox.com/s/4jojrctwzv1m8po/Screenshot_2015-12-30-16-39-40.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/j7lno0ic6xc5lfj/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 3
+			},
+            {		
+				"name": "Kids Lite",
+				"description": "Quick and easy to load, this ultra light kids version is great for the little ones, plenty to keep them entertained and you can be sure that theres nothing on there that they shouldn't be seeing.",
+				"screenshot_url": "https://www.dropbox.com/s/joiaap39eic3t9b/Screenshot_2015-12-28-13-57-39.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/rggv159vq2onyoq/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 3
+			},
+            {
+				"name": "Cloud 9",
+				"description": "Beautiful and airy. Take a second out from the chaos outside and relax with a glass of wine and your favorite TV show or Latest Film",
+				"screenshot_url": "https://www.dropbox.com/s/3afy0n1xgd16wdp/Screenshot_2016-01-03-14-26-42.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/hlwjiq0u1ycjbgo/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 3
+			},
+            {
+				"name": "Arty One",
+				"description": "Multiple images and art make this a 'show piece' perfect for that wow factor if your entertaining guests and watching a film or the big game",
+				"screenshot_url": "https://www.dropbox.com/s/0nzdgtbb6dp2ehs/Screenshot_2016-01-25-14-29-46.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/35fwggmkubricz2/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 3
+			},
+            {
+				"name": "coming soon",
+				"description": "coming soon",
+				"screenshot_url": "Coming Soon",
+				"brand_url": "https://www.dropbox.com/s/hlwjiq0u1ycjbgo/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 1
+			},
+            {
+				"name": "Triple X",
+				"description": "You Know what this ones all about, Lite and quick to load skin! The one stop place for anything and everything you could need when the mood takes you",
+				"screenshot_url": "https://www.dropbox.com/s/c78eum38jsckkaq/Screenshot_2016-01-06-14-36-39.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/qn3gq6ss5fl4pg2/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
+				"version": 3
+			}
+]
