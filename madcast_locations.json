@@ -5,7 +5,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/tnmsbnqdlzfh3fv/Screenshot_2015-12-30-16-05-05.jpg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/btu1xjsi4qt4422/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_trial"],
-				"version": 4
+				"version": 5
 			},
 			{
 				"name": "Classic Home",
@@ -13,7 +13,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/3pnimd57ducpg4o/Screenshot_2015-12-30-16-05-05.jpeg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/5z2qovs4atftxul/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
-				"version": 4
+				"version": 5
 			},
 			{
 				"name": "Lost In Space",
