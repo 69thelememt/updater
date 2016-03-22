@@ -13,7 +13,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/3pnimd57ducpg4o/Screenshot_2015-12-30-16-05-05.jpeg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/5z2qovs4atftxul/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
-				"version": 4
+				"version": 6
 			},
 			{
 				"name": "Lost In Space",
@@ -21,7 +21,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/4jojrctwzv1m8po/Screenshot_2015-12-30-16-39-40.jpeg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/7t559hfmce8sr92/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 4
+				"version": 6
 			},
             {		
 				"name": "Kids Lite",
@@ -37,7 +37,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/3afy0n1xgd16wdp/Screenshot_2016-01-03-14-26-42.jpg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/lujlaep0cl12ijp/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 4
+				"version": 6
 			},
             {
 				"name": "Arty One",
@@ -45,7 +45,7 @@
 				"screenshot_url": "https://www.dropbox.com/s/0nzdgtbb6dp2ehs/Screenshot_2016-01-25-14-29-46.jpeg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/o5q9moz742mnc0j/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 4
+				"version": 6
 			},
             {
 				"name": "The Beast",
