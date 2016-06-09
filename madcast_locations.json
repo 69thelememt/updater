@@ -1,66 +1,52 @@
 [
 			{
-				"name": "Classic Home Free Trial",
-				"description": "*FREE TRIAL* Classy and easy to use classic slider, our show piece theme with light colours and easy to navigate menu. Wide and varied collection or TV, movies and music and more",
-				"screenshot_url": "https://www.dropbox.com/s/tnmsbnqdlzfh3fv/Screenshot_2015-12-30-16-05-05.jpg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/btu1xjsi4qt4422/update.zip?dl=1",
-				"availability": ["com.madcast_tv.madcast_trial"],
-				"version": 5
+				"name": "The Beast TV",
+				"description": "All the best from The Beast but in a fabulous new layout - Focus on TV, Movies and sport. Well Worth a look",
+				"screenshot_url": "https://www.dropbox.com/s/g6vqu07qgcdiz8m/screenshot.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/zo3rkwenqe8bx4p/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_trial", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
+				"version": 1
 			},
 			{
-				"name": "Classic Home",
-				"description": "Classy and easy to use classic slider, our show piece theme with light colours and easy to navigate menu. Wide and varied collection or TV, movies and music and more",
-				"screenshot_url": "https://www.dropbox.com/s/3pnimd57ducpg4o/Screenshot_2015-12-30-16-05-05.jpeg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/5z2qovs4atftxul/update.zip?dl=1",
-				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
-				"version": 6
+				"name": "The Beast",
+				"description": "The most popular and famous Kodi build for a reason. Large in size but large in its capabilities. Leaves no prisoners, not for the weak hearted",
+				"screenshot_url": "https://www.dropbox.com/s/zzcc54ky6cyguhu/Screenshot_2016-03-17-10-11-29.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/t4r4hdttafw5dhu/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
+				"version": 1
 			},
-			{
-				"name": "Lost In Space",
-				"description": "One for the fantasy and space lovers out there. Lost in space?? Try lost in films, sport and music. Packed with all the best sport, movies, TV and music",
-				"screenshot_url": "https://www.dropbox.com/s/4jojrctwzv1m8po/Screenshot_2015-12-30-16-39-40.jpeg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/7t559hfmce8sr92/update.zip?dl=1",
-				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 6
+			
+            {
+				"name": "Nemesis UK Build",
+				"description": "Focused mainly towards the UK market but still plenty left over for everthing else. This build is clean and straight to the point",
+				"screenshot_url": "https://www.dropbox.com/s/an9v72lltlc5wxb/Screenshot_2016-03-17-10-11-29.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/llsa6a8nmx0d60y/update.zip?dl=1",
+				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
+				"version": 1
 			},
             {		
-				"name": "Kids Lite",
+				"name": "Spinz Kids Lite",
 				"description": "Quick and easy to load, this ultra light kids version is great for the little ones, plenty to keep them entertained and you can be sure that theres nothing on there that they shouldn't be seeing.",
-				"screenshot_url": "https://www.dropbox.com/s/joiaap39eic3t9b/Screenshot_2015-12-28-13-57-39.jpg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/il30xrwoa021657/update.zip?dl=1",
-				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 4
-			},
-            {
-				"name": "Cloud 9",
-				"description": "Beautiful and airy. Take a second out from the chaos outside and relax with a glass of wine and your favorite TV show or Latest Film",
-				"screenshot_url": "https://www.dropbox.com/s/3afy0n1xgd16wdp/Screenshot_2016-01-03-14-26-42.jpg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/lujlaep0cl12ijp/update.zip?dl=1",
-				"availability": ["com.madcast_tv.madcast_xtra", "com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 6
-			},
-            {
-				"name": "Arty One",
-				"description": "Multiple images and art make this a 'show piece' perfect for that wow factor if your entertaining guests and watching a film or the big game",
-				"screenshot_url": "https://www.dropbox.com/s/0nzdgtbb6dp2ehs/Screenshot_2016-01-25-14-29-46.jpeg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/o5q9moz742mnc0j/update.zip?dl=1",
+				"screenshot_url": "https://www.dropbox.com/s/vub8b36l1im2s08/Screenshot_2015-12-28-13-57-39.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/9i02eqm7bohdkx2/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 6
+				"version": 1
+			
 			},
             {
-				"name": "The Beast",
-				"description": "The Beast. Large in size but large in its capabilities. Leaves no prisoners, not for the weak hearted",
-				"screenshot_url": "https://www.dropbox.com/s/moz676qqg86hynl/Screenshot_2016-03-17-10-11-57.jpeg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/nubg4u4wwjz69wm/update.zip?dl=1",
+				"name": "Spinz Lite",
+				"description": "Small but packs a real punch - A light build perfect for fire sticks, phones and tablets",
+				"screenshot_url": "https://www.dropbox.com/s/0sefrufmdfxnok9/Screenshot_2016-03-17-10-11-29.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/czvwhn0g2m2awpw/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 2
+				"version": 1
 			},
             {
 				"name": "Triple X",
 				"description": "You Know what this ones all about, Lite and quick to load skin! The one stop place for anything and everything you could need when the mood takes you",
-				"screenshot_url": "https://www.dropbox.com/s/c78eum38jsckkaq/Screenshot_2016-01-06-14-36-39.jpeg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/5xfw0eu86q9h9yd/update.zip?dl=1",
+				"screenshot_url": "https://www.dropbox.com/s/wwwqknarhydyp9d/Screenshot_2016-01-06-14-36-39.jpeg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/r9nm8p99ejnua6q/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_ultra.kodi_edition"],
-				"version": 4
+				"version": 1
 			}
 ]
