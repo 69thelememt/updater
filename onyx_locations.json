@@ -1,6 +1,6 @@
 [
 			{
-				"name": "The Beast TV",
+				"name": "The Beast TV Build",
 				"description": "All the best from The Beast but in a fabulous new layout - Focus on TV, Movies and sport. Well Worth a look",
 				"screenshot_url": "https://www.dropbox.com/s/g6vqu07qgcdiz8m/screenshot.jpg?dl=1",
 				"brand_url": "https://www.dropbox.com/s/zo3rkwenqe8bx4p/update.zip?dl=1",
@@ -8,10 +8,10 @@
 				"version": 1
 			},
 			{
-				"name": "The Beast TV Build",
+				"name": "The Beast TV",
 				"description": "All the best from The Beast but in a fabulous new layout - Focus on TV, Movies and sport. Well Worth a look",
-				"screenshot_url": "https://www.dropbox.com/s/g6vqu07qgcdiz8m/screenshot.jpg?dl=1",
-				"brand_url": "https://www.dropbox.com/s/zo3rkwenqe8bx4p/update.zip?dl=1",
+				"screenshot_url": "https://www.dropbox.com/s/6lh459n467muj9s/screenshot.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/2aszs0ud54zuavl/update.zip?dl=1",
 				"availability": ["com.madcast_tv.madcast_trial", "com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
 				"version": 1
 			},
