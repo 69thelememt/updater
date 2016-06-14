@@ -8,6 +8,14 @@
 				"version": 1
 			},
 			{
+				"name": "The Beast TV",
+				"description": "All the best from The Beast but in a fabulous new layout. Focus on TV, Movies and sport. Well Worth a look",
+				"screenshot_url": "https://www.dropbox.com/s/6lh459n467muj9s/screenshot.jpg?dl=1",
+				"brand_url": "https://www.dropbox.com/s/2aszs0ud54zuavl/update.zip?dl=1",
+				"availability": [com.madcast_tv.madcast_ultra.kodi_edition", "com.madcast_tv.madcast4k"],
+				"version": 1
+},
+			{
 				"name": "The Beast",
 				"description": "The most popular and famous Kodi build for a reason. Large in size but large in its capabilities. Leaves no prisoners, not for the weak hearted",
 				"screenshot_url": "https://www.dropbox.com/s/zzcc54ky6cyguhu/Screenshot_2016-03-17-10-11-29.jpeg?dl=1",
